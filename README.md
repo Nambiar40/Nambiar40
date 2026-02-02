@@ -1,7 +1,7 @@
 <h1 align="center">ML & AI Enthusiast</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B%2C+I'm+Yedunandan+Nambiar;Computer+Engineering+Undergraduate;Android+%26+Backend+Developer;Machine+Learning+%26+AI+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B%2C+I'm+Yedunandan+Nambiar;IT Engineer+Undergraduate;Android+%26+Backend+Developer;Machine+Learning+%26+AI+Enthusiast" />
 </p>
 
 <p align="center">
