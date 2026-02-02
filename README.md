@@ -1,12 +1,12 @@
 <h1 align="center">ML & AI Enthusiast</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B%2C+I'm+Yedunandan+Nambiar;IT Engineer+Undergraduate;Android+%26+Backend+Developer;Machine+Learning+%26+AI+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=520&lines=Hey+%F0%9F%91%8B%2C+I'm+Yedunandan+Nambiar;IT+Engineering+Undergraduate;Android+%26+Backend+Developer;Machine+Learning+%26+AI+Enthusiast" />
 </p>
 
 <p align="center">
 🎓 B.Tech IT Engineering Student &nbsp;|&nbsp;
-📱 Python-django Developer &nbsp;|&nbsp;
+📱 Android Developer &nbsp;|&nbsp;
 🧠 ML & AI Enthusiast &nbsp;|&nbsp;
 🌐 Backend & Automation Explorer
 </p>
@@ -14,18 +14,18 @@
 ---
 
 ## 👨‍💻 About Me
-- IT Engineering  undergraduate with strong interest in Software Development and Artificial Intelligence
-- Hands-on experience in Android Development (Kotlin) and Backend Development using Django
-- Actively working on Machine Learning, Data Analysis, and Automation-based projects
-- Interested in  AI systems, model deployment, backend logic, and real-world problem solving
-- Comfortable with Java, Python, Android Studio, Django, Git, ML libraries, and developer tools
+- IT Engineering undergraduate with a strong interest in **Software Development and Artificial Intelligence**
+- Hands-on experience in **Android Development (Kotlin)** and **Backend Development using Django**
+- Actively working on **Machine Learning, Data Analysis, and Automation-based projects**
+- Interested in **AI systems, model deployment, backend logic, and real-world problem solving**
+- Comfortable with **Java, Python, Android Studio, Django, Git, ML libraries, and developer tools**
 
 ---
 
 ## 🧠 Machine Learning & AI Work
 
 | Area | Description | Tools |
-|----|------------|------|
+|-----|------------|------|
 | **Supervised Learning** | Regression & Classification models | Python, Scikit-learn |
 | **Unsupervised Learning** | Clustering & pattern discovery | K-Means, PCA |
 | **Deep Learning (Basics)** | Neural networks & CNN concepts | TensorFlow / Keras |
@@ -37,12 +37,12 @@
 ## 🚀 Key Projects
 
 | Project | Technology | Description |
-|------|-----------|------------|
+|-------|-----------|------------|
 | 🔐 **Gmail Locker Chrome Extension** | Django, JavaScript | Locks Gmail until authenticated via Django backend |
 | 🎟️ **Tatkal Ticket Booking Automation** | Python, Selenium | Automated ticket booking at Tatkal opening time |
 | 📊 **Data Analysis Projects** | Python, Excel, Power BI | Data cleaning, visualization & insights |
 | 📱 **Android Applications** | Kotlin, Android Studio | Calculator, utility & learning apps |
-| 🌐 **Dynamic Web Apps** | Django, HTML, CSS, JS | Backend-driven dynamic websites |
+| 🌐 **Dynamic Web Applications** | Django, HTML, CSS, JS | Backend-driven dynamic websites |
 
 ---
 
@@ -114,5 +114,5 @@
 ---
 
 <p align="center">
-  ⭐ Thank you for visiting my profile!
+  ⭐ Thank you for visiting my GitHub profile!
 </p>
