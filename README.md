@@ -40,7 +40,7 @@
 |-------|-----------|------------|
 | 🔐 **Gmail Locker Chrome Extension** | Django, JavaScript | Locks Gmail until authenticated via Django backend |
 | 🎟️ **Tatkal Ticket Booking Automation** | Python, Selenium | Automated ticket booking at Tatkal opening time |
-| 📊 **Data Analysis Projects** | Python, Excel, Power BI | Data cleaning, visualization & insights |
+| 📊 **USA Real Estate Price Prediction**  |  Python |  Pandas & NumPy | Scikit-learn | XGBoost |
 | 📱 **Android Applications** | Kotlin, Android Studio | Calculator, utility & learning apps |
 | 🌐 **Dynamic Web Applications** | Django, HTML, CSS, JS | Backend-driven dynamic websites |
 
